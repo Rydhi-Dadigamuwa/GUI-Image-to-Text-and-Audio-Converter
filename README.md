@@ -1,5 +1,7 @@
 This GUI apllication can be used to convert images into both text and audio. This apllication has following features.
 
+Python file is in the "Image to Text" folder
+
        pip install requirements.txt
 To use the project:  First check with requirements run the above command
        
