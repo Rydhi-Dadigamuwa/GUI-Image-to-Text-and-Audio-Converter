@@ -1,6 +1,6 @@
 This GUI apllication can be used to convert images into both text and audio. This apllication has following features.
 
-    𝙁͟𝙚͟𝙖͟𝙩͟𝙪͟𝙧͟𝙚͟𝙨͟
+    Features
 👉 Open PNG/JPEG files from any location.
 👉 Copy generated text to clipboard.
 👉 Save text as a text file.
@@ -13,4 +13,4 @@ This GUI apllication can be used to convert images into both text and audio. Thi
 
 
 To use the project:  First check with requirements run the following command
-            pip install requirements.txt
+   pip install requirements.txt
